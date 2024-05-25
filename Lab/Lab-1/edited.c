@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
+#include<stdlib.h>
 void dectobinary(int nbit, int num, int arry[])
 {
          while (nbit >= 0)
